@@ -121,7 +121,7 @@
           "repo_info": {
             "archived": false,
             "language": "Ruby",
-            "last_commit": "2026-08-12T22:06:55Z",
+            "last_commit": "2026-08-13T09:41:02Z",
             "owner": "loomio",
             "repo": "loomio",
             "stars": 2589
@@ -158,7 +158,7 @@
             "last_commit": "2026-08-13T04:03:29Z",
             "owner": "brave",
             "repo": "brave-browser",
-            "stars": 23331
+            "stars": 23334
           }
         },
         {
@@ -247,7 +247,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:39:07.284Z",
+    "last_updated": "2026-08-13T09:50:51.347Z",
     "original_repository": "drewrwilson/toolsforactivism",
     "original_repository_sha": "3eac4a79ceb911f3abf36ea4509001843e8b9b16",
     "enhanced_repository": "enhansome/enhansome-toolsforactivism",
