@@ -1,0 +1,257 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Self Starter",
+          "description": "roll your own crowdfunding site",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2022-10-27T17:12:44Z",
+            "owner": "apigy",
+            "repo": "selfstarter",
+            "stars": 3153
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Twilio.org's Rapid Response Kit",
+          "description": "Collection phone-related tools using Twilio's service. Kit includes: Auto-Respond (inbound voice/sms responder), Broadcast (simple way to broadcast texts/calls to a list), Conference Line, Forwarder, Ringdown (call down a list of people, if 1st person doesn't answer go on to the next), Help Line (Press 1 for..., Press 2 for...)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-03-19T21:57:29Z",
+            "owner": "Twilio-org",
+            "repo": "rapid-response-kit",
+            "stars": 309
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Spoke",
+          "description": "Text-distribution tool for organizations to mobilize supporters and members into action. Spoke allows you to upload phone numbers, customize scripts and assign volunteers to communicate with supporters while allowing organizations to manage the process.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2020-07-06T00:28:44Z",
+            "owner": "Elizabeth-Warren",
+            "repo": "Spoke",
+            "stars": 204
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Countdown",
+          "description": "A quick & simple tool for making your own webpage with a countdown to your upcoming event.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2016-06-13T14:55:50Z",
+            "owner": "drewrwilson",
+            "repo": "countdown",
+            "stars": 41
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Call Congress",
+          "description": "Coordinate call-in days to US Congress, the President, or local or corporate targets. Original project from Fight for the Future and Taskforce.is, but with lots of development from Mozilla and the EFF. Frontend looks like this, https://call.mozilla.org and the backend looks like http://callpower.org. A hosted version is available, and the code is AGPL.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2017-07-07T14:48:41Z",
+            "owner": "fightforthefuture",
+            "repo": "call-congress",
+            "stars": 27
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Crowdring",
+          "description": "web app where people around the world can place a free missed call to sign a petition",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2014-02-19T06:02:10Z",
+            "owner": "therules",
+            "repo": "CrowdRing",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TakeCharge.io",
+          "description": "opensource or SaaS online donations powered by Stripe.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Ruby",
+            "last_commit": "2018-05-01T14:02:56Z",
+            "owner": "controlshift",
+            "repo": "prague-server",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Contact Congress (Open Source)",
+          "description": "Send emails to members of the US Congress. This was developed by EFF as an open source project. They use it for their own campaigns internally. There is also a hosted version run by Fight for the Future (see below).",
+          "children": []
+        }
+      ],
+      "title": "Open-source host-it-yourself:"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Loomio",
+          "description": "Tool for collaborative decision-making in groups. Note: Loomio's code is also open source, but it's generally used as a hosted service.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-08-12T22:06:55Z",
+            "owner": "loomio",
+            "repo": "loomio",
+            "stars": 2589
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Democracy.io",
+          "description": "(code) - Send messages to members of the US Senate and House of Representatives.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-05-20T18:26:08Z",
+            "owner": "sinak",
+            "repo": "democracy.io",
+            "stars": 268
+          }
+        }
+      ],
+      "title": "Software as a service:"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Brave Browser",
+          "description": "Brave is a free and open-source web browser developed by Brave Software, Inc. based on the Chromium web browser. It blocks ads and website trackers, and provides a way for users to send information contributions in the form of Basic Attention Tokens to websites and content creators.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-08-13T04:03:29Z",
+            "owner": "brave",
+            "repo": "brave-browser",
+            "stars": 23331
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tor Browser",
+          "description": "Free software for enabling anonymous communication. It prevents somebody watching your Internet connection from learning what sites you visit, it prevents the sites you visit from learning your physical location, and it lets you access sites which are blocked.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-10-31T16:49:32Z",
+            "owner": "TheTorProject",
+            "repo": "gettorbrowser",
+            "stars": 788
+          }
+        }
+      ],
+      "title": "Browsers:"
+    },
+    {
+      "description": "These are all projects that are works in process. Not finished, but worth checking out.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Umbrella App",
+          "description": "an open source Android App with lessons and checklists on digital and physical security topics ranging from sending a secure mail to dealing with physical surveillance and attending a protest safely. Also includes forms for responding to security incidents and feeds to ensure users are up to date with the latest security information for their area. Also available in Spanish and Chinese.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2024-05-27T15:40:30Z",
+            "owner": "securityfirst",
+            "repo": "Umbrella_android",
+            "stars": 292
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Where@",
+          "description": "a mobile app to help protesters communicate with each other in realtime during marches",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Scala",
+            "last_commit": "2015-06-14T00:57:18Z",
+            "owner": "the-learning-collective",
+            "repo": "whereat-macroid",
+            "stars": 41
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Stencil Validator",
+          "description": "(code) - a design tool for determining if your artwork is a valid stencil",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2015-11-07T09:47:43Z",
+            "owner": "drewrwilson",
+            "repo": "stencilvalidator",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Day of Action",
+          "description": "very rough tool used to coordinate a day of action for high school students. the starting point for a more generalized tool to run a day of action campaign",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2014-12-01T03:44:11Z",
+            "owner": "handsupwalkout",
+            "repo": "handsupwalkout.github.io",
+            "stars": 9
+          }
+        }
+      ],
+      "title": "Projects to keep an eye on (ie projects in development)"
+    },
+    {
+      "description": "No copyright intended.\n\nTo the extent possible under law, Drew Wilson has waived all copyright and related or neighboring rights to this work.",
+      "items": [],
+      "title": "License"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:39:07.284Z",
+    "original_repository": "drewrwilson/toolsforactivism",
+    "original_repository_sha": "3eac4a79ceb911f3abf36ea4509001843e8b9b16",
+    "enhanced_repository": "enhansome/enhansome-toolsforactivism",
+    "enhanced_repository_description": null,
+    "title": "Awesome Digital Tools for Activism with stars"
+  }
+}
