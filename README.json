@@ -158,7 +158,7 @@
             "last_commit": "2026-08-14T16:04:07Z",
             "owner": "brave",
             "repo": "brave-browser",
-            "stars": 23342
+            "stars": 23351
           }
         },
         {
@@ -247,7 +247,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T09:12:26.700Z",
+    "last_updated": "2026-08-16T09:13:11.232Z",
     "original_repository": "drewrwilson/toolsforactivism",
     "original_repository_sha": "3eac4a79ceb911f3abf36ea4509001843e8b9b16",
     "enhanced_repository": "enhansome/enhansome-toolsforactivism",
