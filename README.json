@@ -17,7 +17,7 @@
                 "last_commit": "2022-10-27T17:12:44Z",
                 "owner": "apigy",
                 "repo": "selfstarter",
-                "stars": 3154
+                "stars": 3155
               }
             },
             {
@@ -163,7 +163,7 @@
                 "archived": false,
                 "id": 110178895,
                 "language": null,
-                "last_commit": "2026-08-19T08:51:27Z",
+                "last_commit": "2026-08-19T12:33:10Z",
                 "owner": "brave",
                 "repo": "brave-browser",
                 "stars": 23375
@@ -261,8 +261,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T09:18:52.262Z",
+    "last_updated": "2026-08-19T12:57:12.970Z",
     "original_repository": "drewrwilson/toolsforactivism",
+    "original_repository_id": 40604171,
     "original_repository_sha": "3eac4a79ceb911f3abf36ea4509001843e8b9b16",
     "enhanced_repository": "enhansome/enhansome-toolsforactivism",
     "enhanced_repository_description": null,

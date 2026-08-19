@@ -2,7 +2,7 @@
 
 ![digital tools for activism](https://raw.githubusercontent.com/drewrwilson/toolsforactivism/master/digital-tool.jpg "digital tools for activism")
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 497,579 | 🐛 102 | 📅 2026-08-18
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 497,670 | 🐛 102 | 📅 2026-08-18
 
 Below is a curated list of awesome digital tools for activism. These are tools for individuals, ad-hoc groups or formal organizations that are campaigning, organizing or communicating for social change. Some of these tools are open source projects that requires some technical knowledge to set up and host yourself. Some are software-as-a-service tools that you use by going to a webpage in your browser. Feel free to share suggestions.
 
@@ -18,7 +18,7 @@ Below is a curated list of awesome digital tools for activism. These are tools f
 
 ## Open-source host-it-yourself:
 
-* [Self Starter](https://github.com/lockitron/selfstarter) ⭐ 3,154 | 🐛 49 | 🌐 Ruby | 📅 2022-10-27 - roll your own crowdfunding site
+* [Self Starter](https://github.com/lockitron/selfstarter) ⭐ 3,155 | 🐛 49 | 🌐 Ruby | 📅 2022-10-27 - roll your own crowdfunding site
 * [Twilio.org's Rapid Response Kit](https://github.com/Twilio-org/rapid-response-kit) ⭐ 309 | 🐛 7 | 🌐 Python | 📅 2021-03-19 - Collection phone-related tools using Twilio's service. Kit includes: Auto-Respond (inbound voice/sms responder), Broadcast (simple way to broadcast texts/calls to a list), Conference Line, Forwarder, Ringdown (call down a list of people, if 1st person doesn't answer go on to the next), Help Line (Press 1 for..., Press 2 for...)
 * [Spoke](https://github.com/Elizabeth-Warren/Spoke) ⭐ 204 | 🐛 5 | 🌐 JavaScript | 📅 2020-07-06 - Text-distribution tool for organizations to mobilize supporters and members into action. Spoke allows you to upload phone numbers, customize scripts and assign volunteers to communicate with supporters while allowing organizations to manage the process.
 * [Countdown](https://github.com/drewrwilson/countdown) ⭐ 41 | 🐛 11 | 🌐 HTML | 📅 2016-06-13 - A quick & simple tool for making your own webpage with a countdown to your upcoming event.
@@ -47,7 +47,7 @@ Below is a curated list of awesome digital tools for activism. These are tools f
 
 ## Browsers:
 
-* [Brave Browser](https://github.com/brave/brave-browser) ⭐ 23,375 | 🐛 10,568 | 📅 2026-08-19 - [Brave](https://brave.com/) is a free and open-source web browser developed by Brave Software, Inc. based on the Chromium web browser. It blocks ads and website trackers, and provides a way for users to send information contributions in the form of Basic Attention Tokens to websites and content creators.
+* [Brave Browser](https://github.com/brave/brave-browser) ⭐ 23,375 | 🐛 10,574 | 📅 2026-08-19 - [Brave](https://brave.com/) is a free and open-source web browser developed by Brave Software, Inc. based on the Chromium web browser. It blocks ads and website trackers, and provides a way for users to send information contributions in the form of Basic Attention Tokens to websites and content creators.
 
 * [Tor Browser](https://github.com/TheTorProject/gettorbrowser) ⭐ 788 | 🐛 33 | 📅 2024-10-31 - Free software for enabling anonymous communication. It prevents somebody watching your Internet connection from learning what sites you visit, it prevents the sites you visit from learning your physical location, and it lets you access sites which are blocked.
 
