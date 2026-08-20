@@ -17,7 +17,7 @@
                 "last_commit": "2022-10-27T17:12:44Z",
                 "owner": "apigy",
                 "repo": "selfstarter",
-                "stars": 3155
+                "stars": 3153
               }
             },
             {
@@ -47,7 +47,7 @@
                 "last_commit": "2020-07-06T00:28:44Z",
                 "owner": "Elizabeth-Warren",
                 "repo": "Spoke",
-                "stars": 204
+                "stars": 205
               }
             },
             {
@@ -126,7 +126,7 @@
                 "archived": false,
                 "id": 2731301,
                 "language": "Ruby",
-                "last_commit": "2026-08-19T00:13:09Z",
+                "last_commit": "2026-08-20T07:53:34Z",
                 "owner": "loomio",
                 "repo": "loomio",
                 "stars": 2590
@@ -163,10 +163,10 @@
                 "archived": false,
                 "id": 110178895,
                 "language": null,
-                "last_commit": "2026-08-19T12:33:10Z",
+                "last_commit": "2026-08-20T04:03:44Z",
                 "owner": "brave",
                 "repo": "brave-browser",
-                "stars": 23375
+                "stars": 23380
               }
             },
             {
@@ -261,7 +261,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:57:12.970Z",
+    "last_updated": "2026-08-20T09:19:54.941Z",
     "original_repository": "drewrwilson/toolsforactivism",
     "original_repository_id": 40604171,
     "original_repository_sha": "3eac4a79ceb911f3abf36ea4509001843e8b9b16",
