@@ -126,7 +126,7 @@
                 "archived": false,
                 "id": 2731301,
                 "language": "Ruby",
-                "last_commit": "2026-08-21T09:17:48Z",
+                "last_commit": "2026-08-22T06:51:44Z",
                 "owner": "loomio",
                 "repo": "loomio",
                 "stars": 2591
@@ -163,10 +163,10 @@
                 "archived": false,
                 "id": 110178895,
                 "language": null,
-                "last_commit": "2026-08-21T04:03:42Z",
+                "last_commit": "2026-08-21T20:52:18Z",
                 "owner": "brave",
                 "repo": "brave-browser",
-                "stars": 23389
+                "stars": 23402
               }
             },
             {
@@ -181,7 +181,7 @@
                 "last_commit": "2024-10-31T16:49:32Z",
                 "owner": "TheTorProject",
                 "repo": "gettorbrowser",
-                "stars": 788
+                "stars": 789
               }
             }
           ],
@@ -261,7 +261,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T09:22:07.878Z",
+    "last_updated": "2026-08-22T09:14:01.848Z",
     "original_repository": "drewrwilson/toolsforactivism",
     "original_repository_id": 40604171,
     "original_repository_sha": "3eac4a79ceb911f3abf36ea4509001843e8b9b16",
