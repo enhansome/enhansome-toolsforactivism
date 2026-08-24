@@ -163,10 +163,10 @@
                 "archived": false,
                 "id": 110178895,
                 "language": null,
-                "last_commit": "2026-08-24T08:00:22Z",
+                "last_commit": "2026-08-24T12:34:07Z",
                 "owner": "brave",
                 "repo": "brave-browser",
-                "stars": 23429
+                "stars": 23430
               }
             },
             {
@@ -261,7 +261,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T09:32:04.972Z",
+    "last_updated": "2026-08-24T14:15:01.896Z",
     "original_repository": "drewrwilson/toolsforactivism",
     "original_repository_id": 40604171,
     "original_repository_sha": "3eac4a79ceb911f3abf36ea4509001843e8b9b16",

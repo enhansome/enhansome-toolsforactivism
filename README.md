@@ -2,7 +2,7 @@
 
 ![digital tools for activism](https://raw.githubusercontent.com/drewrwilson/toolsforactivism/master/digital-tool.jpg "digital tools for activism")
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 499,420 | 🐛 106 | 📅 2026-08-21
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 499,514 | 🐛 106 | 📅 2026-08-21
 
 Below is a curated list of awesome digital tools for activism. These are tools for individuals, ad-hoc groups or formal organizations that are campaigning, organizing or communicating for social change. Some of these tools are open source projects that requires some technical knowledge to set up and host yourself. Some are software-as-a-service tools that you use by going to a webpage in your browser. Feel free to share suggestions.
 
@@ -47,7 +47,7 @@ Below is a curated list of awesome digital tools for activism. These are tools f
 
 ## Browsers:
 
-* [Brave Browser](https://github.com/brave/brave-browser) ⭐ 23,429 | 🐛 10,594 | 📅 2026-08-24 - [Brave](https://brave.com/) is a free and open-source web browser developed by Brave Software, Inc. based on the Chromium web browser. It blocks ads and website trackers, and provides a way for users to send information contributions in the form of Basic Attention Tokens to websites and content creators.
+* [Brave Browser](https://github.com/brave/brave-browser) ⭐ 23,430 | 🐛 10,593 | 📅 2026-08-24 - [Brave](https://brave.com/) is a free and open-source web browser developed by Brave Software, Inc. based on the Chromium web browser. It blocks ads and website trackers, and provides a way for users to send information contributions in the form of Basic Attention Tokens to websites and content creators.
 
 * [Tor Browser](https://github.com/TheTorProject/gettorbrowser) ⭐ 789 | 🐛 33 | 📅 2024-10-31 - Free software for enabling anonymous communication. It prevents somebody watching your Internet connection from learning what sites you visit, it prevents the sites you visit from learning your physical location, and it lets you access sites which are blocked.
 
