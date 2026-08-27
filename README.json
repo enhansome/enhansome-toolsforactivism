@@ -17,7 +17,7 @@
                 "last_commit": "2022-10-27T17:12:44Z",
                 "owner": "apigy",
                 "repo": "selfstarter",
-                "stars": 3153
+                "stars": 3154
               }
             },
             {
@@ -126,7 +126,7 @@
                 "archived": false,
                 "id": 2731301,
                 "language": "Ruby",
-                "last_commit": "2026-08-27T11:16:42Z",
+                "last_commit": "2026-08-27T12:22:31Z",
                 "owner": "loomio",
                 "repo": "loomio",
                 "stars": 2592
@@ -163,10 +163,10 @@
                 "archived": false,
                 "id": 110178895,
                 "language": null,
-                "last_commit": "2026-08-27T12:03:52Z",
+                "last_commit": "2026-08-27T16:04:06Z",
                 "owner": "brave",
                 "repo": "brave-browser",
-                "stars": 23445
+                "stars": 23446
               }
             },
             {
@@ -181,7 +181,7 @@
                 "last_commit": "2024-10-31T16:49:32Z",
                 "owner": "TheTorProject",
                 "repo": "gettorbrowser",
-                "stars": 789
+                "stars": 788
               }
             }
           ],
@@ -261,7 +261,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:08:28.800Z",
+    "last_updated": "2026-08-27T19:16:46.020Z",
     "original_repository_info": {
       "archived": false,
       "id": 40604171,
