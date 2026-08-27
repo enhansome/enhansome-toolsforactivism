@@ -126,10 +126,10 @@
                 "archived": false,
                 "id": 2731301,
                 "language": "Ruby",
-                "last_commit": "2026-08-26T04:29:25Z",
+                "last_commit": "2026-08-27T11:16:42Z",
                 "owner": "loomio",
                 "repo": "loomio",
-                "stars": 2591
+                "stars": 2592
               }
             },
             {
@@ -163,10 +163,10 @@
                 "archived": false,
                 "id": 110178895,
                 "language": null,
-                "last_commit": "2026-08-26T06:51:50Z",
+                "last_commit": "2026-08-27T12:03:52Z",
                 "owner": "brave",
                 "repo": "brave-browser",
-                "stars": 23443
+                "stars": 23445
               }
             },
             {
@@ -261,9 +261,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T09:26:39.163Z",
-    "original_repository": "drewrwilson/toolsforactivism",
-    "original_repository_id": 40604171,
+    "last_updated": "2026-08-27T12:08:28.800Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 40604171,
+      "language": null,
+      "last_commit": "2022-10-11T01:19:14Z",
+      "owner": "drewrwilson",
+      "repo": "toolsforactivism",
+      "stars": 1064
+    },
     "original_repository_sha": "3eac4a79ceb911f3abf36ea4509001843e8b9b16",
     "enhanced_repository": "enhansome/enhansome-toolsforactivism",
     "enhanced_repository_description": null,
