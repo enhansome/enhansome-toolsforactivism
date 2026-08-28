@@ -18,7 +18,8 @@
                 "owner": "apigy",
                 "repo": "selfstarter",
                 "stars": 3154
-              }
+              },
+              "first_seen": "2026-08-28T20:26:10.795Z"
             },
             {
               "node_type": "item",
@@ -33,7 +34,8 @@
                 "owner": "Twilio-org",
                 "repo": "rapid-response-kit",
                 "stars": 309
-              }
+              },
+              "first_seen": "2026-08-28T20:26:10.795Z"
             },
             {
               "node_type": "item",
@@ -48,7 +50,8 @@
                 "owner": "Elizabeth-Warren",
                 "repo": "Spoke",
                 "stars": 205
-              }
+              },
+              "first_seen": "2026-08-28T20:26:10.795Z"
             },
             {
               "node_type": "item",
@@ -63,7 +66,8 @@
                 "owner": "drewrwilson",
                 "repo": "countdown",
                 "stars": 41
-              }
+              },
+              "first_seen": "2026-08-28T20:26:10.795Z"
             },
             {
               "node_type": "item",
@@ -78,7 +82,8 @@
                 "owner": "fightforthefuture",
                 "repo": "call-congress",
                 "stars": 27
-              }
+              },
+              "first_seen": "2026-08-28T20:26:10.795Z"
             },
             {
               "node_type": "item",
@@ -93,7 +98,8 @@
                 "owner": "therules",
                 "repo": "CrowdRing",
                 "stars": 16
-              }
+              },
+              "first_seen": "2026-08-28T20:26:10.795Z"
             },
             {
               "node_type": "item",
@@ -108,7 +114,8 @@
                 "owner": "controlshift",
                 "repo": "prague-server",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-28T20:26:10.795Z"
             }
           ],
           "description": null,
@@ -126,11 +133,12 @@
                 "archived": false,
                 "id": 2731301,
                 "language": "Ruby",
-                "last_commit": "2026-08-27T12:22:31Z",
+                "last_commit": "2026-08-28T12:44:56Z",
                 "owner": "loomio",
                 "repo": "loomio",
                 "stars": 2592
-              }
+              },
+              "first_seen": "2026-08-28T20:26:10.795Z"
             },
             {
               "node_type": "item",
@@ -145,7 +153,8 @@
                 "owner": "sinak",
                 "repo": "democracy.io",
                 "stars": 268
-              }
+              },
+              "first_seen": "2026-08-28T20:26:10.795Z"
             }
           ],
           "description": null,
@@ -163,11 +172,12 @@
                 "archived": false,
                 "id": 110178895,
                 "language": null,
-                "last_commit": "2026-08-27T16:04:06Z",
+                "last_commit": "2026-08-28T16:03:20Z",
                 "owner": "brave",
                 "repo": "brave-browser",
-                "stars": 23446
-              }
+                "stars": 23459
+              },
+              "first_seen": "2026-08-28T20:26:10.795Z"
             },
             {
               "node_type": "item",
@@ -182,7 +192,8 @@
                 "owner": "TheTorProject",
                 "repo": "gettorbrowser",
                 "stars": 788
-              }
+              },
+              "first_seen": "2026-08-28T20:26:10.795Z"
             }
           ],
           "description": null,
@@ -204,7 +215,8 @@
                 "owner": "securityfirst",
                 "repo": "Umbrella_android",
                 "stars": 292
-              }
+              },
+              "first_seen": "2026-08-28T20:26:10.795Z"
             },
             {
               "node_type": "item",
@@ -219,7 +231,8 @@
                 "owner": "the-learning-collective",
                 "repo": "whereat-macroid",
                 "stars": 41
-              }
+              },
+              "first_seen": "2026-08-28T20:26:10.795Z"
             },
             {
               "node_type": "item",
@@ -234,7 +247,8 @@
                 "owner": "drewrwilson",
                 "repo": "stencilvalidator",
                 "stars": 11
-              }
+              },
+              "first_seen": "2026-08-28T20:26:10.795Z"
             },
             {
               "node_type": "item",
@@ -249,7 +263,8 @@
                 "owner": "handsupwalkout",
                 "repo": "handsupwalkout.github.io",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-28T20:26:10.795Z"
             }
           ],
           "description": "These are all projects that are works in process. Not finished, but worth checking out.",
@@ -261,7 +276,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T19:16:46.020Z",
+    "last_updated": "2026-08-28T20:26:10.795Z",
     "original_repository_info": {
       "archived": false,
       "id": 40604171,
@@ -269,7 +284,7 @@
       "last_commit": "2022-10-11T01:19:14Z",
       "owner": "drewrwilson",
       "repo": "toolsforactivism",
-      "stars": 1064
+      "stars": 1065
     },
     "original_repository_sha": "3eac4a79ceb911f3abf36ea4509001843e8b9b16",
     "enhanced_repository": "enhansome/enhansome-toolsforactivism",
