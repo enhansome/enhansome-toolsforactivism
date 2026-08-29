@@ -12,12 +12,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Roll your own crowdfunding",
+                "homepage": "selfstarter.us",
                 "id": 6177949,
                 "language": "Ruby",
+                "license": "NOASSERTION",
                 "last_commit": "2022-10-27T17:12:44Z",
+                "open_issues": 47,
                 "owner": "apigy",
                 "repo": "selfstarter",
-                "stars": 3154
+                "stars": 3154,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:26:10.795Z"
             },
@@ -28,12 +33,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This Twilio-powered Rapid Response Kit gives you the elements to build and deploy communications apps quickly and easily.",
+                "homepage": null,
                 "id": 17689330,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2021-03-19T21:57:29Z",
+                "open_issues": 7,
                 "owner": "Twilio-org",
                 "repo": "rapid-response-kit",
-                "stars": 309
+                "stars": 309,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:26:10.795Z"
             },
@@ -44,12 +54,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Spoke is an open source text-distribution tool for organizations to mobilize supporters and members into action",
+                "homepage": "https://elizabethwarren.com",
                 "id": 244991387,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2020-07-06T00:28:44Z",
+                "open_issues": 5,
                 "owner": "Elizabeth-Warren",
                 "repo": "Spoke",
-                "stars": 205
+                "stars": 205,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:26:10.795Z"
             },
@@ -60,12 +75,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Countdown allows you to quickly & easilty create a webpage that counts down to your upcoming event",
+                "homepage": "https://drewrwilson.com/projects/countdown-microapp",
                 "id": 48816191,
                 "language": "HTML",
+                "license": "MIT",
                 "last_commit": "2016-06-13T14:55:50Z",
+                "open_issues": 11,
                 "owner": "drewrwilson",
                 "repo": "countdown",
-                "stars": 41
+                "stars": 41,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:26:10.795Z"
             },
@@ -76,12 +96,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "a simple server that connects calls between citizens and their congress person using the Twilio API",
+                "homepage": null,
                 "id": 23559373,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2017-07-07T14:48:41Z",
+                "open_issues": 0,
                 "owner": "fightforthefuture",
                 "repo": "call-congress",
-                "stars": 27
+                "stars": 27,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:26:10.795Z"
             },
@@ -92,12 +117,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 6909975,
                 "language": "Ruby",
+                "license": "GPL-3.0",
                 "last_commit": "2014-02-19T06:02:10Z",
+                "open_issues": 1,
                 "owner": "therules",
                 "repo": "CrowdRing",
-                "stars": 16
+                "stars": 16,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:26:10.795Z"
             },
@@ -108,12 +138,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Server for the ControlShift Prague donation application",
+                "homepage": null,
                 "id": 15806870,
                 "language": "Ruby",
+                "license": "NOASSERTION",
                 "last_commit": "2018-05-01T14:02:56Z",
+                "open_issues": 5,
                 "owner": "controlshift",
                 "repo": "prague-server",
-                "stars": 10
+                "stars": 10,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:26:10.795Z"
             }
@@ -131,12 +166,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Loomio is a collaborative decision making tool",
+                "homepage": "https://loomio.com",
                 "id": 2731301,
                 "language": "Ruby",
-                "last_commit": "2026-08-28T12:44:56Z",
+                "license": "AGPL-3.0",
+                "last_commit": "2026-08-29T03:54:03Z",
+                "open_issues": 95,
                 "owner": "loomio",
                 "repo": "loomio",
-                "stars": 2592
+                "stars": 2592,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:26:10.795Z"
             },
@@ -147,12 +187,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "democracy.io",
+                "homepage": null,
                 "id": 31436337,
                 "language": "TypeScript",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-05-20T18:26:08Z",
+                "open_issues": 61,
                 "owner": "sinak",
                 "repo": "democracy.io",
-                "stars": 268
+                "stars": 268,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:26:10.795Z"
             }
@@ -170,12 +215,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Brave browser for Android, iOS, Linux, macOS, Windows.",
+                "homepage": "https://brave.com",
                 "id": 110178895,
                 "language": null,
+                "license": "MPL-2.0",
                 "last_commit": "2026-08-28T16:03:20Z",
+                "open_issues": 10628,
                 "owner": "brave",
                 "repo": "brave-browser",
-                "stars": 23459
+                "stars": 23459,
+                "topics": [
+                  "brave",
+                  "browser",
+                  "chromium",
+                  "linux",
+                  "macos",
+                  "windows"
+                ]
               },
               "first_seen": "2026-08-28T20:26:10.795Z"
             },
@@ -186,12 +243,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 211523012,
                 "language": null,
+                "license": null,
                 "last_commit": "2024-10-31T16:49:32Z",
+                "open_issues": 33,
                 "owner": "TheTorProject",
                 "repo": "gettorbrowser",
-                "stars": 788
+                "stars": 788,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:26:10.795Z"
             }
@@ -209,12 +271,34 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Open source Android, iOS and Web app for learning about and managing digital and physical security. From how to send a secure message to dealing with a kidnap. Umbrella has best practice guides in over 40 topics in multiple languages. Used daily by people working in high risk countries - journalists, activists, diplomats, business travelers etc.",
+                "homepage": "http://www.secfirst.org",
                 "id": 26905579,
                 "language": "Kotlin",
+                "license": "GPL-3.0",
                 "last_commit": "2024-05-27T15:40:30Z",
+                "open_issues": 12,
                 "owner": "securityfirst",
                 "repo": "Umbrella_android",
-                "stars": 292
+                "stars": 292,
+                "topics": [
+                  "activism",
+                  "advice",
+                  "crypto",
+                  "encryption",
+                  "hacking",
+                  "human-rights-defenders",
+                  "infosec",
+                  "journalism",
+                  "lessons",
+                  "opensource",
+                  "protest",
+                  "risk",
+                  "security",
+                  "snowden",
+                  "travel",
+                  "umbrella"
+                ]
               },
               "first_seen": "2026-08-28T20:26:10.795Z"
             },
@@ -225,12 +309,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "mobile app for tactical comms on protest marches",
+                "homepage": null,
                 "id": 34427455,
                 "language": "Scala",
+                "license": "NOASSERTION",
                 "last_commit": "2015-06-14T00:57:18Z",
+                "open_issues": 0,
                 "owner": "the-learning-collective",
                 "repo": "whereat-macroid",
-                "stars": 41
+                "stars": 41,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:26:10.795Z"
             },
@@ -241,12 +330,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "a design tool for determining if a given design is a valid stencil",
+                "homepage": "https://drewrwilson.com/stencilvalidator/",
                 "id": 42277564,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2015-11-07T09:47:43Z",
+                "open_issues": 6,
                 "owner": "drewrwilson",
                 "repo": "stencilvalidator",
-                "stars": 11
+                "stars": 11,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:26:10.795Z"
             },
@@ -257,12 +351,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Map of #ferguson walk out actions planned for Dec 1, 2014",
+                "homepage": "http://handsupwalkout.github.io",
                 "id": 27322705,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2014-12-01T03:44:11Z",
+                "open_issues": 5,
                 "owner": "handsupwalkout",
                 "repo": "handsupwalkout.github.io",
-                "stars": 9
+                "stars": 9,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:26:10.795Z"
             }
@@ -276,15 +375,20 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T20:26:10.795Z",
+    "last_updated": "2026-08-29T04:34:57.400Z",
     "original_repository_info": {
       "archived": false,
+      "description": "growing list of digital tools for activism things",
+      "homepage": null,
       "id": 40604171,
       "language": null,
+      "license": null,
       "last_commit": "2022-10-11T01:19:14Z",
+      "open_issues": 35,
       "owner": "drewrwilson",
       "repo": "toolsforactivism",
-      "stars": 1065
+      "stars": 1065,
+      "topics": []
     },
     "original_repository_sha": "3eac4a79ceb911f3abf36ea4509001843e8b9b16",
     "enhanced_repository": "enhansome/enhansome-toolsforactivism",

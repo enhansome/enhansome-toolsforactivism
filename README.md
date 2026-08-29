@@ -2,7 +2,7 @@
 
 ![digital tools for activism](https://raw.githubusercontent.com/drewrwilson/toolsforactivism/master/digital-tool.jpg "digital tools for activism")
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 500,822 | 🐛 105 | 📅 2026-08-21
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 500,891 | 🐛 105 | 📅 2026-08-21
 
 Below is a curated list of awesome digital tools for activism. These are tools for individuals, ad-hoc groups or formal organizations that are campaigning, organizing or communicating for social change. Some of these tools are open source projects that requires some technical knowledge to set up and host yourself. Some are software-as-a-service tools that you use by going to a webpage in your browser. Feel free to share suggestions.
 
@@ -31,7 +31,7 @@ Below is a curated list of awesome digital tools for activism. These are tools f
 
 ## Software as a service:
 
-* [Loomio](https://www.loomio.org/) - Tool for collaborative decision-making in groups. Note: Loomio's [code is also open source](https://github.com/loomio/loomio) ⭐ 2,592 | 🐛 95 | 🌐 Ruby | 📅 2026-08-28, but it's generally used as a hosted service.
+* [Loomio](https://www.loomio.org/) - Tool for collaborative decision-making in groups. Note: Loomio's [code is also open source](https://github.com/loomio/loomio) ⭐ 2,592 | 🐛 95 | 🌐 Ruby | 📅 2026-08-29, but it's generally used as a hosted service.
 * [Democracy.io](https://democracy.io) ([code](https://github.com/sinak/democracy.io) ⭐ 268 | 🐛 61 | 🌐 TypeScript | 📅 2026-05-20) - Send messages to members of the US Senate and House of Representatives.
 * [Change.org](https://www.change.org/) Petition site. Chose a target, make a petition, send it to your friends. If they get traction, Change.org has staff that can provide support. (They also have org accounts, that allow groups to do branded pages and export contact info of signers.)
 * [Contact Congress (FFTF)](http://congress.fightforthefuture.org/) - Used to send emails to members of the US Congress. This is Fight for the Future's hosted-version of the open sources Contact Congress. Ideal for organizations that send a lot of emails to congress, but who don't have tech staff who can install and maintain their own version of the open source software.
@@ -47,7 +47,7 @@ Below is a curated list of awesome digital tools for activism. These are tools f
 
 ## Browsers:
 
-* [Brave Browser](https://github.com/brave/brave-browser) ⭐ 23,459 | 🐛 10,624 | 📅 2026-08-28 - [Brave](https://brave.com/) is a free and open-source web browser developed by Brave Software, Inc. based on the Chromium web browser. It blocks ads and website trackers, and provides a way for users to send information contributions in the form of Basic Attention Tokens to websites and content creators.
+* [Brave Browser](https://github.com/brave/brave-browser) ⭐ 23,459 | 🐛 10,628 | 📅 2026-08-28 - [Brave](https://brave.com/) is a free and open-source web browser developed by Brave Software, Inc. based on the Chromium web browser. It blocks ads and website trackers, and provides a way for users to send information contributions in the form of Basic Attention Tokens to websites and content creators.
 
 * [Tor Browser](https://github.com/TheTorProject/gettorbrowser) ⭐ 788 | 🐛 33 | 📅 2024-10-31 - Free software for enabling anonymous communication. It prevents somebody watching your Internet connection from learning what sites you visit, it prevents the sites you visit from learning your physical location, and it lets you access sites which are blocked.
 
@@ -84,4 +84,4 @@ To the extent possible under law, [Drew Wilson](https://drewrwilson.com) has wai
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._
