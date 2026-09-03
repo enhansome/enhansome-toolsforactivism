@@ -171,8 +171,8 @@
                 "id": 2731301,
                 "language": "Ruby",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-09-02T10:42:12Z",
-                "open_issues": 91,
+                "last_commit": "2026-09-03T01:12:28Z",
+                "open_issues": 92,
                 "owner": "loomio",
                 "repo": "loomio",
                 "stars": 2595,
@@ -220,11 +220,11 @@
                 "id": 110178895,
                 "language": null,
                 "license": "MPL-2.0",
-                "last_commit": "2026-09-02T12:34:16Z",
-                "open_issues": 10666,
+                "last_commit": "2026-09-03T12:33:57Z",
+                "open_issues": 10689,
                 "owner": "brave",
                 "repo": "brave-browser",
-                "stars": 23495,
+                "stars": 23499,
                 "topics": [
                   "brave",
                   "browser",
@@ -252,7 +252,7 @@
                 "open_issues": 33,
                 "owner": "TheTorProject",
                 "repo": "gettorbrowser",
-                "stars": 790,
+                "stars": 791,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:26:10.795Z"
@@ -318,7 +318,7 @@
                 "open_issues": 0,
                 "owner": "the-learning-collective",
                 "repo": "whereat-macroid",
-                "stars": 41,
+                "stars": 42,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:26:10.795Z"
@@ -375,7 +375,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T12:59:56.033Z",
+    "last_updated": "2026-09-03T13:02:06.293Z",
     "original_repository_info": {
       "archived": false,
       "description": "growing list of digital tools for activism things",
