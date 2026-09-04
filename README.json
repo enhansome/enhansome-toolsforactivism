@@ -166,13 +166,13 @@
               "children": [],
               "repo_info": {
                 "archived": false,
-                "description": "Loomio is a collaborative decision making tool",
+                "description": "Loomio is a collaborative decision-making tool",
                 "homepage": "https://loomio.com",
                 "id": 2731301,
                 "language": "Ruby",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-09-03T01:12:28Z",
-                "open_issues": 92,
+                "last_commit": "2026-09-04T09:33:57Z",
+                "open_issues": 88,
                 "owner": "loomio",
                 "repo": "loomio",
                 "stars": 2595,
@@ -220,11 +220,11 @@
                 "id": 110178895,
                 "language": null,
                 "license": "MPL-2.0",
-                "last_commit": "2026-09-03T12:33:57Z",
-                "open_issues": 10689,
+                "last_commit": "2026-09-04T12:33:57Z",
+                "open_issues": 10705,
                 "owner": "brave",
                 "repo": "brave-browser",
-                "stars": 23499,
+                "stars": 23522,
                 "topics": [
                   "brave",
                   "browser",
@@ -375,7 +375,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T13:02:06.293Z",
+    "last_updated": "2026-09-04T12:57:56.078Z",
     "original_repository_info": {
       "archived": false,
       "description": "growing list of digital tools for activism things",
