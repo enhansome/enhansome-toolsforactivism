@@ -32,7 +32,7 @@
               "description": "Collection phone-related tools using Twilio's service. Kit includes: Auto-Respond (inbound voice/sms responder), Broadcast (simple way to broadcast texts/calls to a list), Conference Line, Forwarder, Ringdown (call down a list of people, if 1st person doesn't answer go on to the next), Help Line (Press 1 for..., Press 2 for...)",
               "children": [],
               "repo_info": {
-                "archived": false,
+                "archived": true,
                 "description": "This Twilio-powered Rapid Response Kit gives you the elements to build and deploy communications apps quickly and easily.",
                 "homepage": null,
                 "id": 17689330,
@@ -171,8 +171,8 @@
                 "id": 2731301,
                 "language": "Ruby",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-09-15T13:13:06Z",
-                "open_issues": 84,
+                "last_commit": "2026-09-16T09:16:18Z",
+                "open_issues": 91,
                 "owner": "loomio",
                 "repo": "loomio",
                 "stars": 2598,
@@ -220,11 +220,11 @@
                 "id": 110178895,
                 "language": null,
                 "license": "MPL-2.0",
-                "last_commit": "2026-09-15T12:33:54Z",
-                "open_issues": 10784,
+                "last_commit": "2026-09-16T12:33:32Z",
+                "open_issues": 10791,
                 "owner": "brave",
                 "repo": "brave-browser",
-                "stars": 23634,
+                "stars": 23644,
                 "topics": [
                   "brave",
                   "browser",
@@ -375,7 +375,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T13:54:14.416Z",
+    "last_updated": "2026-09-16T13:46:09.215Z",
     "original_repository_info": {
       "archived": false,
       "description": "growing list of digital tools for activism things",
@@ -387,7 +387,7 @@
       "open_issues": 35,
       "owner": "drewrwilson",
       "repo": "toolsforactivism",
-      "stars": 1065,
+      "stars": 1066,
       "topics": []
     },
     "original_repository_sha": "3eac4a79ceb911f3abf36ea4509001843e8b9b16",
