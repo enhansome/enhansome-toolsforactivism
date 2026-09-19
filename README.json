@@ -220,11 +220,11 @@
                 "id": 110178895,
                 "language": null,
                 "license": "MPL-2.0",
-                "last_commit": "2026-09-18T12:33:36Z",
+                "last_commit": "2026-09-18T16:04:01Z",
                 "open_issues": 10835,
                 "owner": "brave",
                 "repo": "brave-browser",
-                "stars": 23662,
+                "stars": 23672,
                 "topics": [
                   "brave",
                   "browser",
@@ -375,7 +375,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T13:11:42.269Z",
+    "last_updated": "2026-09-19T12:42:55.515Z",
     "original_repository_info": {
       "archived": false,
       "description": "growing list of digital tools for activism things",
