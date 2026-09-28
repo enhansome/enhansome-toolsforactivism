@@ -171,11 +171,11 @@
                 "id": 2731301,
                 "language": "Ruby",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-09-27T11:11:37Z",
-                "open_issues": 91,
+                "last_commit": "2026-09-28T10:25:02Z",
+                "open_issues": 94,
                 "owner": "loomio",
                 "repo": "loomio",
-                "stars": 2607,
+                "stars": 2611,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:26:10.795Z"
@@ -196,7 +196,7 @@
                 "open_issues": 61,
                 "owner": "sinak",
                 "repo": "democracy.io",
-                "stars": 268,
+                "stars": 269,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:26:10.795Z"
@@ -220,11 +220,11 @@
                 "id": 110178895,
                 "language": null,
                 "license": "MPL-2.0",
-                "last_commit": "2026-09-25T12:50:00Z",
-                "open_issues": 10874,
+                "last_commit": "2026-09-28T16:04:15Z",
+                "open_issues": 10895,
                 "owner": "brave",
                 "repo": "brave-browser",
-                "stars": 23735,
+                "stars": 23739,
                 "topics": [
                   "brave",
                   "browser",
@@ -252,7 +252,7 @@
                 "open_issues": 33,
                 "owner": "TheTorProject",
                 "repo": "gettorbrowser",
-                "stars": 792,
+                "stars": 793,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:26:10.795Z"
@@ -280,7 +280,7 @@
                 "open_issues": 12,
                 "owner": "securityfirst",
                 "repo": "Umbrella_android",
-                "stars": 292,
+                "stars": 293,
                 "topics": [
                   "activism",
                   "advice",
@@ -375,7 +375,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T14:20:05.367Z",
+    "last_updated": "2026-09-28T17:03:28.181Z",
     "original_repository_info": {
       "archived": false,
       "description": "growing list of digital tools for activism things",
