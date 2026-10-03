@@ -224,7 +224,7 @@
                 "open_issues": 11005,
                 "owner": "brave",
                 "repo": "brave-browser",
-                "stars": 23780,
+                "stars": 23787,
                 "topics": [
                   "brave",
                   "browser",
@@ -252,7 +252,7 @@
                 "open_issues": 33,
                 "owner": "TheTorProject",
                 "repo": "gettorbrowser",
-                "stars": 793,
+                "stars": 794,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:26:10.795Z"
@@ -375,7 +375,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T05:10:23.865Z",
+    "last_updated": "2026-10-03T13:57:42.506Z",
     "original_repository_info": {
       "archived": false,
       "description": "growing list of digital tools for activism things",
