@@ -221,10 +221,10 @@
                 "language": null,
                 "license": "MPL-2.0",
                 "last_commit": "2026-10-02T20:17:14Z",
-                "open_issues": 11005,
+                "open_issues": 11009,
                 "owner": "brave",
                 "repo": "brave-browser",
-                "stars": 23787,
+                "stars": 23797,
                 "topics": [
                   "brave",
                   "browser",
@@ -375,7 +375,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T13:57:42.506Z",
+    "last_updated": "2026-10-04T14:26:32.043Z",
     "original_repository_info": {
       "archived": false,
       "description": "growing list of digital tools for activism things",
