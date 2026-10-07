@@ -21,7 +21,7 @@
                 "open_issues": 47,
                 "owner": "apigy",
                 "repo": "selfstarter",
-                "stars": 3151,
+                "stars": 3150,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:26:10.795Z"
@@ -171,11 +171,11 @@
                 "id": 2731301,
                 "language": "Ruby",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-10-06T09:53:58Z",
-                "open_issues": 90,
+                "last_commit": "2026-10-07T08:05:46Z",
+                "open_issues": 92,
                 "owner": "loomio",
                 "repo": "loomio",
-                "stars": 2612,
+                "stars": 2611,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:26:10.795Z"
@@ -220,11 +220,11 @@
                 "id": 110178895,
                 "language": null,
                 "license": "MPL-2.0",
-                "last_commit": "2026-10-06T14:10:21Z",
-                "open_issues": 11004,
+                "last_commit": "2026-10-07T15:49:20Z",
+                "open_issues": 11007,
                 "owner": "brave",
                 "repo": "brave-browser",
-                "stars": 23820,
+                "stars": 23821,
                 "topics": [
                   "brave",
                   "browser",
@@ -375,7 +375,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T15:29:04.579Z",
+    "last_updated": "2026-10-07T15:49:28.410Z",
     "original_repository_info": {
       "archived": false,
       "description": "growing list of digital tools for activism things",
@@ -387,7 +387,7 @@
       "open_issues": 35,
       "owner": "drewrwilson",
       "repo": "toolsforactivism",
-      "stars": 1068,
+      "stars": 1069,
       "topics": []
     },
     "original_repository_sha": "3eac4a79ceb911f3abf36ea4509001843e8b9b16",
