@@ -220,11 +220,11 @@
                 "id": 110178895,
                 "language": null,
                 "license": "MPL-2.0",
-                "last_commit": "2026-10-09T12:35:40Z",
-                "open_issues": 11019,
+                "last_commit": "2026-10-09T16:04:34Z",
+                "open_issues": 11025,
                 "owner": "brave",
                 "repo": "brave-browser",
-                "stars": 23849,
+                "stars": 23850,
                 "topics": [
                   "brave",
                   "browser",
@@ -280,7 +280,7 @@
                 "open_issues": 12,
                 "owner": "securityfirst",
                 "repo": "Umbrella_android",
-                "stars": 293,
+                "stars": 294,
                 "topics": [
                   "activism",
                   "advice",
@@ -375,7 +375,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T15:36:04.152Z",
+    "last_updated": "2026-10-10T14:49:04.782Z",
     "original_repository_info": {
       "archived": false,
       "description": "growing list of digital tools for activism things",
@@ -387,7 +387,7 @@
       "open_issues": 35,
       "owner": "drewrwilson",
       "repo": "toolsforactivism",
-      "stars": 1070,
+      "stars": 1071,
       "topics": []
     },
     "original_repository_sha": "3eac4a79ceb911f3abf36ea4509001843e8b9b16",

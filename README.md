@@ -2,7 +2,7 @@
 
 ![digital tools for activism](https://raw.githubusercontent.com/drewrwilson/toolsforactivism/master/digital-tool.jpg "digital tools for activism")
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 516,636 | 🐛 106 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 517,080 | 🐛 106 | 📅 2026-09-02
 
 Below is a curated list of awesome digital tools for activism. These are tools for individuals, ad-hoc groups or formal organizations that are campaigning, organizing or communicating for social change. Some of these tools are open source projects that requires some technical knowledge to set up and host yourself. Some are software-as-a-service tools that you use by going to a webpage in your browser. Feel free to share suggestions.
 
@@ -47,7 +47,7 @@ Below is a curated list of awesome digital tools for activism. These are tools f
 
 ## Browsers:
 
-* [Brave Browser](https://github.com/brave/brave-browser) ⭐ 23,849 | 🐛 11,019 | 📅 2026-10-09 - [Brave](https://brave.com/) is a free and open-source web browser developed by Brave Software, Inc. based on the Chromium web browser. It blocks ads and website trackers, and provides a way for users to send information contributions in the form of Basic Attention Tokens to websites and content creators.
+* [Brave Browser](https://github.com/brave/brave-browser) ⭐ 23,850 | 🐛 11,025 | 📅 2026-10-09 - [Brave](https://brave.com/) is a free and open-source web browser developed by Brave Software, Inc. based on the Chromium web browser. It blocks ads and website trackers, and provides a way for users to send information contributions in the form of Basic Attention Tokens to websites and content creators.
 
 * [Tor Browser](https://github.com/TheTorProject/gettorbrowser) ⭐ 796 | 🐛 33 | 📅 2024-10-31 - Free software for enabling anonymous communication. It prevents somebody watching your Internet connection from learning what sites you visit, it prevents the sites you visit from learning your physical location, and it lets you access sites which are blocked.
 
@@ -55,7 +55,7 @@ Below is a curated list of awesome digital tools for activism. These are tools f
 
 These are all projects that are works in process. Not finished, but worth checking out.
 
-* [Umbrella App](https://github.com/securityfirst/Umbrella_android) ⭐ 293 | 🐛 12 | 🌐 Kotlin | 📅 2024-05-27 - an open source Android App with lessons and checklists on digital and physical security topics ranging from sending a secure mail to dealing with physical surveillance and attending a protest safely. Also includes forms for responding to security incidents and feeds to ensure users are up to date with the latest security information for their area. Also available in Spanish and Chinese.
+* [Umbrella App](https://github.com/securityfirst/Umbrella_android) ⭐ 294 | 🐛 12 | 🌐 Kotlin | 📅 2024-05-27 - an open source Android App with lessons and checklists on digital and physical security topics ranging from sending a secure mail to dealing with physical surveillance and attending a protest safely. Also includes forms for responding to security incidents and feeds to ensure users are up to date with the latest security information for their area. Also available in Spanish and Chinese.
 * [Where@](https://github.com/the-learning-collective/whereat-macroid) ⭐ 42 | 🐛 0 | 🌐 Scala | 📅 2015-06-14 - a mobile app to help protesters communicate with each other in realtime during marches
 * [Stencil Validator](https://drewrwilson.com/stencilvalidator/) ([code](https://github.com/drewrwilson/stencilvalidator) ⭐ 11 | 🐛 6 | 🌐 Python | 📅 2015-11-07) - a design tool for determining if your artwork is a valid stencil
 * [Day of Action](https://github.com/handsupwalkout/handsupwalkout.github.io) ⭐ 9 | 🐛 5 | 🌐 JavaScript | 📅 2014-12-01 - very rough tool used to coordinate a day of action for high school students. the starting point for a more generalized tool to run a day of action campaign
@@ -84,4 +84,4 @@ To the extent possible under law, [Drew Wilson](https://drewrwilson.com) has wai
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-09._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-10._
