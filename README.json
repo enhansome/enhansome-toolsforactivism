@@ -221,10 +221,10 @@
                 "language": null,
                 "license": "MPL-2.0",
                 "last_commit": "2026-10-23T19:25:10Z",
-                "open_issues": 11134,
+                "open_issues": 11144,
                 "owner": "brave",
                 "repo": "brave-browser",
-                "stars": 23960,
+                "stars": 23978,
                 "topics": [
                   "brave",
                   "browser",
@@ -252,7 +252,7 @@
                 "open_issues": 33,
                 "owner": "TheTorProject",
                 "repo": "gettorbrowser",
-                "stars": 797,
+                "stars": 798,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:26:10.795Z"
@@ -375,7 +375,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T12:57:17.884Z",
+    "last_updated": "2026-10-25T13:23:43.852Z",
     "original_repository_info": {
       "archived": false,
       "description": "growing list of digital tools for activism things",
