@@ -21,7 +21,7 @@
                 "open_issues": 47,
                 "owner": "apigy",
                 "repo": "selfstarter",
-                "stars": 3150,
+                "stars": 3151,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:26:10.795Z"
@@ -171,8 +171,8 @@
                 "id": 2731301,
                 "language": "Ruby",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-10-27T07:26:50Z",
-                "open_issues": 67,
+                "last_commit": "2026-10-28T10:11:48Z",
+                "open_issues": 63,
                 "owner": "loomio",
                 "repo": "loomio",
                 "stars": 2622,
@@ -193,7 +193,7 @@
                 "language": "TypeScript",
                 "license": "AGPL-3.0",
                 "last_commit": "2026-05-20T18:26:08Z",
-                "open_issues": 60,
+                "open_issues": 59,
                 "owner": "sinak",
                 "repo": "democracy.io",
                 "stars": 269,
@@ -220,11 +220,11 @@
                 "id": 110178895,
                 "language": null,
                 "license": "MPL-2.0",
-                "last_commit": "2026-10-27T12:34:41Z",
-                "open_issues": 11169,
+                "last_commit": "2026-10-28T12:34:08Z",
+                "open_issues": 11197,
                 "owner": "brave",
                 "repo": "brave-browser",
-                "stars": 24000,
+                "stars": 24009,
                 "topics": [
                   "brave",
                   "browser",
@@ -375,7 +375,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T14:57:13.257Z",
+    "last_updated": "2026-10-28T15:31:07.632Z",
     "original_repository_info": {
       "archived": false,
       "description": "growing list of digital tools for activism things",
