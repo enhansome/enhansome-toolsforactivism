@@ -63,7 +63,7 @@
                 "open_issues": 5,
                 "owner": "Elizabeth-Warren",
                 "repo": "Spoke",
-                "stars": 206,
+                "stars": 207,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:26:10.795Z"
@@ -171,7 +171,7 @@
                 "id": 2731301,
                 "language": "Ruby",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-10-29T09:07:32Z",
+                "last_commit": "2026-10-30T01:57:28Z",
                 "open_issues": 63,
                 "owner": "loomio",
                 "repo": "loomio",
@@ -220,11 +220,11 @@
                 "id": 110178895,
                 "language": null,
                 "license": "MPL-2.0",
-                "last_commit": "2026-10-29T12:34:01Z",
-                "open_issues": 11193,
+                "last_commit": "2026-10-30T15:08:29Z",
+                "open_issues": 11224,
                 "owner": "brave",
                 "repo": "brave-browser",
-                "stars": 24027,
+                "stars": 24038,
                 "topics": [
                   "brave",
                   "browser",
@@ -375,7 +375,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T15:38:47.720Z",
+    "last_updated": "2026-10-30T15:22:13.898Z",
     "original_repository_info": {
       "archived": false,
       "description": "growing list of digital tools for activism things",
