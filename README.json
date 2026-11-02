@@ -171,11 +171,11 @@
                 "id": 2731301,
                 "language": "Ruby",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-11-01T02:08:38Z",
-                "open_issues": 63,
+                "last_commit": "2026-11-02T10:38:36Z",
+                "open_issues": 65,
                 "owner": "loomio",
                 "repo": "loomio",
-                "stars": 2624,
+                "stars": 2623,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:26:10.795Z"
@@ -220,11 +220,11 @@
                 "id": 110178895,
                 "language": null,
                 "license": "MPL-2.0",
-                "last_commit": "2026-10-30T16:04:11Z",
-                "open_issues": 11249,
+                "last_commit": "2026-11-02T16:05:01Z",
+                "open_issues": 11252,
                 "owner": "brave",
                 "repo": "brave-browser",
-                "stars": 24068,
+                "stars": 24078,
                 "topics": [
                   "brave",
                   "browser",
@@ -252,7 +252,7 @@
                 "open_issues": 33,
                 "owner": "TheTorProject",
                 "repo": "gettorbrowser",
-                "stars": 799,
+                "stars": 800,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:26:10.795Z"
@@ -280,7 +280,7 @@
                 "open_issues": 12,
                 "owner": "securityfirst",
                 "repo": "Umbrella_android",
-                "stars": 294,
+                "stars": 299,
                 "topics": [
                   "activism",
                   "advice",
@@ -375,7 +375,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T15:29:36.004Z",
+    "last_updated": "2026-11-02T18:52:56.415Z",
     "original_repository_info": {
       "archived": false,
       "description": "growing list of digital tools for activism things",
