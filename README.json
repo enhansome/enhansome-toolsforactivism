@@ -171,11 +171,11 @@
                 "id": 2731301,
                 "language": "Ruby",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-11-05T02:51:06Z",
-                "open_issues": 53,
+                "last_commit": "2026-11-06T02:06:31Z",
+                "open_issues": 54,
                 "owner": "loomio",
                 "repo": "loomio",
-                "stars": 2624,
+                "stars": 2625,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:26:10.795Z"
@@ -196,7 +196,7 @@
                 "open_issues": 59,
                 "owner": "sinak",
                 "repo": "democracy.io",
-                "stars": 269,
+                "stars": 270,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:26:10.795Z"
@@ -220,11 +220,11 @@
                 "id": 110178895,
                 "language": null,
                 "license": "MPL-2.0",
-                "last_commit": "2026-11-05T16:26:09Z",
-                "open_issues": 12079,
+                "last_commit": "2026-11-06T16:09:42Z",
+                "open_issues": 12269,
                 "owner": "brave",
                 "repo": "brave-browser",
-                "stars": 24115,
+                "stars": 24131,
                 "topics": [
                   "brave",
                   "browser",
@@ -280,7 +280,7 @@
                 "open_issues": 12,
                 "owner": "securityfirst",
                 "repo": "Umbrella_android",
-                "stars": 299,
+                "stars": 298,
                 "topics": [
                   "activism",
                   "advice",
@@ -375,7 +375,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T16:53:35.033Z",
+    "last_updated": "2026-11-06T16:20:17.997Z",
     "original_repository_info": {
       "archived": false,
       "description": "growing list of digital tools for activism things",
