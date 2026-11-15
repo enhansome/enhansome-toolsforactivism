@@ -171,8 +171,8 @@
                 "id": 2731301,
                 "language": "Ruby",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-11-13T11:19:12Z",
-                "open_issues": 58,
+                "last_commit": "2026-11-14T22:01:40Z",
+                "open_issues": 57,
                 "owner": "loomio",
                 "repo": "loomio",
                 "stars": 2630,
@@ -221,10 +221,10 @@
                 "language": null,
                 "license": "MPL-2.0",
                 "last_commit": "2026-11-14T00:35:44Z",
-                "open_issues": 12137,
+                "open_issues": 12096,
                 "owner": "brave",
                 "repo": "brave-browser",
-                "stars": 24215,
+                "stars": 24221,
                 "topics": [
                   "brave",
                   "browser",
@@ -280,7 +280,7 @@
                 "open_issues": 12,
                 "owner": "securityfirst",
                 "repo": "Umbrella_android",
-                "stars": 300,
+                "stars": 301,
                 "topics": [
                   "activism",
                   "advice",
@@ -375,7 +375,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T15:22:10.108Z",
+    "last_updated": "2026-11-15T15:54:22.210Z",
     "original_repository_info": {
       "archived": false,
       "description": "growing list of digital tools for activism things",
